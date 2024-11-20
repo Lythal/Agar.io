@@ -129,7 +129,7 @@ public class Agario extends Application {
 		// Add the Scene to the Stage
 		stage.setScene(scene);
 		// Set the Title of the Stage
-		stage.setTitle("Mohamed Abdu - Culminating");
+		stage.setTitle("Agario");
 		// Display the Stage
 		stage.show();		
 	}
