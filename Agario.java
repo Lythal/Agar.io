@@ -1,12 +1,5 @@
 package agario;
 
-//Name: Mohamed Abdu
-//Course: ICS3U1-1A
-//Date: January 18, 2022
-//Teacher: Mr. Radulovic
-//Assignment Name: Culminating
-//This is a game that is very similar to Agar.io, where circles will eat smaller circles and become larger, where the goal is to be the largest circle.
-
 import java.util.ArrayList;
 
 import javafx.animation.AnimationTimer;
@@ -22,7 +15,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-public class ABDU_MOHAMED_CULMINATING extends Application {
+public class Agario extends Application {
 	public final static int WIDTH = 1280;
 	public final static int HEIGHT = 720;
 	
